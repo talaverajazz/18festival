@@ -60,7 +60,7 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "sitemapSwitcher": true,
-    "siteUrl": "https://talaverajazz.github.io",
+    "siteUrl": "https://talaverajazz.github.io/18festival/",
     "sitemapSwitcherAuto": "on",
     "imageResize": false,
     "cookiesAlert": {
